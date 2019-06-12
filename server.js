@@ -33,7 +33,7 @@ class SetDayNow {
 
 // генерируем таймера число
 function generateTime() {
-  return Math.random() * (2500 - 1000) + 1000;
+  return Math.random() * (2500 - 1000) + 500;
 }
 // генерируем таймера число
 
